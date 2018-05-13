@@ -1,4 +1,4 @@
-sample1_new
+sample1
 
 test1
 
